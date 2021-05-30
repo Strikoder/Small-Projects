@@ -1,2 +1,2 @@
 # Small-Projects
-Here are some small projects which might I use later 
+Here are some small projects which I might use later 
